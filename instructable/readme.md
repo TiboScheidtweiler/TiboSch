@@ -5,10 +5,13 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
 ### stap 1
 bestel alle componenten uit de bill of materials  
 ### Stap 2:  chasis montage
-Lijm de motoren vast vanachter aan het chasis met de motorklemmen. Soldeer de aansluitdraden aan de motoren en steek door de gleuf achteraan. 
+Lijm de motoren vast vanachter aan het chasis met de motorklemmen. Soldeer de aansluitdraden aan de motoren en steek door de gleuf achteraan.
+
 Bevestig de sensor vooraan het frame doormiddel van 2 M3 bouten en moeren. Om de sensor op de juiste hoogte te hangen kan je door hetzelfde gat nog een bout steken met langs beide kanten een moer zodat de kop van de bout verder uitsteekt dan de sensoren. Verbind met M/F kabels om naar het breadbord te gaan.
 Lijm de batterijhouder vast boven de wielen. Zorg dat je het deksel nog kan verwijderen.
-Lijm het breadbord vast in het middenste vak. Op het breadbord steek je de microcontoller en de H-brug. Zorg ook voor een kalibratie knop en een start/stop knop. 
+
+Lijm het breadbord vast in het middenste vak. Op het breadbord steek je de microcontoller en de H-brug. Zorg ook voor een kalibratie knop en een start/stop knop.
+
 Monteer de wielen op de motorassen
 ### Stap 3: elektrische aansluitingen
 Soldeer de positieve kant van de batterij-aansluiting aan de powerswitch. En sluit de batterij aan de H-brug en de Vin pin van de microcontroller. Zorg dat alle ground pinnen met elkaar verbonden staan.
