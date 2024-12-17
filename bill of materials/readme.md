@@ -18,4 +18,4 @@
 |13|powerswitch|schakelaar|nieuw|0|0|0|
 |14|drukknoppen|drukknoppen arduino|recup|0|0|0|
 |15|batterij-oplader|PowerKAN D4-26|nieuw|7,89|1|7,89|
-|16|totaal||||||64,52|
+|16|totaal|||||64,52|
