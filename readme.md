@@ -7,21 +7,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: arduino nano esp 32
 
-motors: 
+motors: micro metal gear motor
 
-h-bridge:
+h-bridge: TB6612FNG
 
-sensors:
+sensors: QTR8A
 
-batteries:
+batteries: 18650 litium
 
-wireless communication:
+wireless communication: wifi
 
-distance sensor - motors:
+distance sensor - motors: 9 cm
 
 weight:
 
-speed: 
+speed: 0.273606
 
